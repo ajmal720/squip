@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323325196029-rt04g10atrtv3ill2bhmluqick26t8s0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323325196029-rt04g10atrtv3ill2bhmluqick26t8s0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBId1mA9Nr0BrehUnCalUe0IBrRXfd8URw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323325196029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.emergencyApp</string>
+	<key>PROJECT_ID</key>
+	<string>emergency-app-4ce86</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emergency-app-4ce86.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323325196029:ios:35b0cf813e28a302a27094</string>
+</dict>
+</plist>
